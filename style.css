@@ -1,0 +1,51 @@
+body{
+  background:  hsl(217, 54%, 11%);
+  color: white;
+  font-family: 'Outfit', sans-serif;
+}
+p{
+  font-size: 15px;
+  color: grey;
+}
+hr
+{
+  width:100%;
+  margin: 7px 0 7px 2px;
+}
+.dif-colore
+{
+  color:  hsl(178, 100%, 50%);
+}
+.ho:hover
+{
+  color: hsl(178, 100%, 50%);
+}
+.card
+{
+  background: hsl(216, 50%, 16%);
+  margin-left: 40.5vw;
+  margin-top: 10vh;
+  border-radius: 14px;
+  box-shadow: 10px 10px 10px 10px black;
+}
+.first-img
+{
+  width: 270px;
+  padding-left: 15px;
+  margin-top: 14px;
+  border-radius: 12px;
+
+}
+.second-img
+{
+  width: 20px;
+}
+.last
+{
+  margin-left: 1px;
+}
+.yes
+{
+  padding-top: 3px;
+  padding-left: 7px;
+}
